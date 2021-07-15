@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-  cout << "Hello World!" << endl;
+	cout << "Hello World!" << endl;
 }
 ```
 4. Create your own Repl that prints your own name and invite me (id: haye) into it. [video](http://miyagiacademy.com/public/first-repl.mp4)
