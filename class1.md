@@ -82,3 +82,12 @@ iii. Sure Y can beat W (from 2), but can you construct the playoff history?
 It is only possible to construct the pre-final matches for (ii).
 
 [Question Paper](https://assets.hkoi.org/ref/2018hj.pdf) - [Answers](https://assets.hkoi.org/ref/2018hj_sol.pdf)
+
+---
+
+## Homework
+Write a program that:
+- takes an integer N as input
+- prints `is a prime number` if N is prime
+- prints `not a prime number` if N is not prime
+you can reference [divisible_by_3.cpp](https://replit.com/@haye/twgss#divisible_by_3.cpp) as a way to start.
