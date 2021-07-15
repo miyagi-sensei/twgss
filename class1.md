@@ -22,8 +22,8 @@ int main() {
 	string names;
 	char letter;
 	int i, count;
-  names = "CHEN BAI AN HUI KA WAI WAN WING TSANG CHAN PAK HANK LAM CHEUK YIN CHUNG HSIN YU FOK WAI CHUNG LAU YUET CHING LEE HIU TUNG";
-  count = 0;
+	names = "CHEN BAI AN HUI KA WAI WAN WING TSANG CHAN PAK HANK LAM CHEUK YIN CHUNG HSIN YU FOK WAI CHUNG LAU YUET CHING LEE HIU TUNG";
+	count = 0;
 	for (i=0; i<names.size(); i+=1) {
 		if (names[i] == 'H') {
 			count += 1;
