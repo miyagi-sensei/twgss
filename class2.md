@@ -10,7 +10,7 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
 
 ---
 
-## Generating Primes
+## [Generating Primes](count_prime.cpp)
 1. [What is a function?](https://www.programiz.com/c-programming/c-functions)
 2. Refactor homework to an `is_prime(n)` function
 3. Use `is_prime(n)` function to generate all prime numbers ≤ `N`
@@ -22,8 +22,6 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
         - The smallest integer `p` in the list is prime.
         - Remove all multiples of `p` from the list.
     - Very often, the list is implemented using an array of boolean of size `N`. Initially the array is all `true` (except `0` and `1` which are `false`), meaning that the numbers exist in the list. To delete a number `x`, change the `x`th element of the array to false. Please read the pseudo-code in the [Wikipedia article](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) for more details.
-
-Sample code for [generating primes](count_prime.cpp).
 
 ## Reminder
 - Going forward, do all the coding for this class inside the First Project you created last time. You have sent me the invite link and I have access to it.
