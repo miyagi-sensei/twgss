@@ -11,9 +11,16 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
 ---
 
 ## Generating Primes
-1. Optimizing and impact to runtime performance
-2. Time Complexity basis
-3. Sieve of Eratosthenes
+1. Refactor homework to an `is_prime(n)` function
+2. Use `is_prime(n)` function to generate all prime numbers ≤ `N`
+3. Optimizing and impact to runtime performance (only need to check up to square root of `N`)
+4. Time Complexity basics
+5. Sieve of Eratosthenes
+    - Let's say you want a list of all primes ≤ `N`. Create a list of all integers from `2` to `N`.
+    - Repeat the following until the list is empty:
+        - The smallest integer `p` in the list is prime.
+        - Remove all multiples of `p` from the list.
+    - Very often, the list is implemented using an array of boolean of size `N`. Initially the array is all `true` (except `0` and `1` which are `false`), meaning that the numbers exist in the list. To delete a number `x`, change the `x`th element of the array to false. Please read the pseudo-code in the [Wikipedia article](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) for more details.
 
 ## Reminder
 - Going forward, do all the coding for this class inside the First Project you created last time. You have sent me the invite link and I have access to it.
