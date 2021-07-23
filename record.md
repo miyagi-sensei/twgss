@@ -22,7 +22,7 @@
 
 ## Class 2 Attendance:
 - [x] 陳柏安
-- [ ] 許珈瑋
+- [x] 許珈瑋
 - [x] 溫穎琤
 - [x] Ryan
 - [x] 林卓諺
@@ -34,10 +34,21 @@
 ## Class 2 Homework:
 - [ ] 陳柏安
 - [ ] 許珈瑋
-- [ ] Jess
+- [ ] 溫穎琤
 - [ ] Ryan
-- [ ] Savio
+- [ ] 林卓諺
 - [ ] 鍾心瑀
 - [ ] Irina
-- [ ] Venus
-- [ ] Kary
+- [ ] 劉悅晴
+- [ ] 利曉彤
+
+## Class 3 Attendance:
+- [ ] 陳柏安
+- [ ] 許珈瑋
+- [ ] 溫穎琤
+- [ ] Ryan
+- [ ] 林卓諺
+- [ ] 鍾心瑀
+- [ ] Irina
+- [ ] 劉悅晴
+- [ ] 利曉彤
