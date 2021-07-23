@@ -14,7 +14,7 @@ Send me your github handle via slack afterwards so I can add you in here.
   - If you don't know any coding language, go through the first 9 videos of this [C++ tutorial](https://www.youtube.com/playlist?list=PLB73BF400371C6FAC).
 - Reference tool: [Hypertext C++ tutorial](https://www.programiz.com/c-programming#tutorial). As you practice, you can use this to quickly look up things you forgot.
 
-# Common Linux Commands
+## Common Linux Commands
 | Command | Description |
 | ---------- | ----------
 | `ls` | Lists all files and directories in the present working directory |
