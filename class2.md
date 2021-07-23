@@ -29,6 +29,8 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
 - Learn how to manage the folders and organize your code and homework neatly. Here are the [common Linux commands](https://github.com/miyagi-sensei/miyagi-academy/blob/master/README.md#common-linux-commands).
 - Don't use the `Run` button in replit. Get used to compiling your code with `g++ code.cpp` and then run it with `./a.out`. That way you can have more files in the same project.
 
+![compiler](compiler.jpeg)
+
 ---
 
 ## Homework
