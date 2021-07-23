@@ -23,6 +23,8 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
         - Remove all multiples of `p` from the list.
     - Very often, the list is implemented using an array of boolean of size `N`. Initially the array is all `true` (except `0` and `1` which are `false`), meaning that the numbers exist in the list. To delete a number `x`, change the `x`th element of the array to false. Please read the pseudo-code in the [Wikipedia article](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) for more details.
 
+Sample code for [generating primes](count_prime.cpp).
+
 ## Reminder
 - Going forward, do all the coding for this class inside the First Project you created last time. You have sent me the invite link and I have access to it.
 - Demonstrate how to send the link to a file in your replit project
