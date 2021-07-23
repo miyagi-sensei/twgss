@@ -11,11 +11,12 @@ See [notes from last class](https://github.com/miyagi-sensei/twgss/blob/main/cla
 ---
 
 ## Generating Primes
-1. Refactor homework to an `is_prime(n)` function
-2. Use `is_prime(n)` function to generate all prime numbers ≤ `N`
-3. Optimizing and impact to runtime performance (only need to check up to square root of `N`)
-4. Time Complexity basics
-5. Sieve of Eratosthenes
+1. [What is a function?](https://www.programiz.com/c-programming/c-functions)
+2. Refactor homework to an `is_prime(n)` function
+3. Use `is_prime(n)` function to generate all prime numbers ≤ `N`
+4. Optimizing and impact to runtime performance (only need to check up to square root of `N`)
+5. Time Complexity basics
+6. Sieve of Eratosthenes
     - Let's say you want a list of all primes ≤ `N`. Create a list of all integers from `2` to `N`.
     - Repeat the following until the list is empty:
         - The smallest integer `p` in the list is prime.
@@ -46,4 +47,3 @@ Or the following 9 videos:
 
 ### Rewrite primes generation
 Write the prime number generation program yourself from scratch and check that it's correct. Then send me the link to your code like last time.
-
