@@ -41,7 +41,7 @@ Combinatorics
 
 2. There are 10 seats in a row and 10 students. How many ways are there to allocate their seats?
 
-3. 6 boys and 4 girls are taking a group photo. There are 4 chairs for the girls to sit on. How many different arrangements are there for the photo? For example: the girls’ names are Amy, Belinda, Cathy, Debbie and the boys’ names are Alan, Benny, Chuck, Daniel, Ethan, Frank. And below are 2 possible arrangements:
+3. 6 boys and 4 girls are taking a group photo. There are 4 chairs for the girls to sit on. How many different arrangements are there for the photo?<br>For example: the girls’ names are Amy, Belinda, Cathy, Debbie and the boys’ names are Alan, Benny, Chuck, Daniel, Ethan, Frank. And below are 2 possible arrangements:
     * Seats: Amy, Cathy, Debbie, Belinda<br>
       Standing: Daniel, Benny, Alan, Chuck, Ethan, Frank
     * Seats: Amy, Cathy, Debbie, Belinda<br>
