@@ -191,4 +191,4 @@ What is the number of possible different outputs?
 > 128
 
 ## Extra Credit Optional Homework
-### [Sieve of Erathosthenes](d401.pdf)
+### [D401 Sieve of Erathosthenes](d401.pdf)
