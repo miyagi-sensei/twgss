@@ -1,4 +1,4 @@
-# Class 2
+# Class 3
 ## Homework from last week
 - use lower case for file names and folder names - it'll make you more efficient
 
@@ -191,4 +191,4 @@ What is the number of possible different outputs?
 > 128
 
 ## Extra Credit Optional Homework
-### [Sieve of Erathosthenes](https://judge.hkoi.org/task/D401)
+### [Sieve of Erathosthenes](d401.pdf)
