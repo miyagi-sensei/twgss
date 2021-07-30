@@ -45,7 +45,7 @@ Combinatorics
     * Seats: Amy, Cathy, Debbie, Belinda<br>
       Standing: Daniel, Benny, Alan, Chuck, Ethan, Frank
     * Seats: Amy, Cathy, Debbie, Belinda<br>
-      Standing: Daniel, Benny, Alan, Chuck, Ethan, Frank
+      Standing: Benny, Daniel, Alan, Chuck, Ethan, Frank
 
 4. How many ways are there to seat 6 people at a roundtable of 6 seats? (To clarify, the orientation does not matter. What matters is merely to whom each person sits next.)
 
