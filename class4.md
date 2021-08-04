@@ -27,7 +27,7 @@ What is the number of possible different outputs?
 
 4. Consider the number 2147483647. It has 10 digits. There are 2<sup>10-1</sup> = 512 ways to insert (possibly zero) plus signs (+) between the digits to obtain an arithmetic expression. For example, `2147483647`, `2+1+4+7+4+8+3+6+4+7`, and `214+74+8+3647` are three ways. How many of these arithmetic expressions evaluates to an odd number?
 > 256<br>
-![illustration](illustration1.jpg)
+![illustration](counting1.jpg)
 
 5. Consider the number 214748347. It has 9 digits. There are 2<sup>9-1</sup> = 256 ways to insert (possibly zero) plus signs (+) between the digits to obtain an arithmetic expression. For example, 214748347, 2+1+4+7+4+8+3+4+7, and 214+74+8+347 are three ways. How many of these arithmetic expressions evaluates to an odd number?
 > 128
