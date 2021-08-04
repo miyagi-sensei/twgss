@@ -54,6 +54,17 @@
 - [ ] 利曉彤
 
 ## Class 3 Homework:
+- [x] 陳柏安 https://replit.com/@1C21/My-first-project#check_digit.cpp
+- [ ] 許珈瑋
+- [ ] 溫穎琤
+- [x] Ryan https://replit.com/@RyanChan0204/My-First-C-Project#class_3/homework_3/check_digit.cpp
+- [ ] 林卓諺
+- [ ] 鍾心瑀
+- [x] Irina https://replit.com/@irinafok/MyFirstProject#check_digit.cpp
+- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#check_digit.cpp
+- [ ] 利曉彤
+
+## Class 4 Attendance:
 - [ ] 陳柏安
 - [ ] 許珈瑋
 - [ ] 溫穎琤
