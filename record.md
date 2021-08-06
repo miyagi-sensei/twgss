@@ -55,8 +55,8 @@
 
 ## Class 3 Homework:
 - [x] 陳柏安 https://replit.com/@1C21/My-first-project#check_digit.cpp
-- [ ] 許珈瑋
-- [ ] 溫穎琤
+- [x] 許珈瑋 https://replit.com/@1D06/TrustworthySomePort#digit.cpp
+- [x] 溫穎琤 https://replit.com/@1D141/my-first-project-jess-wa#digit.cpp
 - [x] Ryan https://replit.com/@RyanChan0204/My-First-C-Project#class_3/homework_3/check_digit.cpp
 - [ ] 林卓諺
 - [ ] 鍾心瑀
