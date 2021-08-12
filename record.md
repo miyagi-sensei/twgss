@@ -76,6 +76,17 @@
 - [x] 利曉彤
 
 ## Class 4 Homework:
+- [x] 陳柏安 https://replit.com/@1C21/My-first-project#sieve_of_Eratosthenes.cpp
+- [x] 許珈瑋 https://replit.com/@1D06/TrustworthySomePort#sieve.cpp
+- [x] 溫穎琤 https://replit.com/@1D141/my-first-project-jess-wa#sieve.cpp
+- [x] Ryan https://replit.com/@RyanChan0204/My-First-C-Project#class_4/sieve.cpp, https://replit.com/@RyanChan0204/My-First-C-Project#class_4/extra/maxmin.cpp
+- [ ] 林卓諺
+- [ ] 鍾心瑀
+- [x] Irina https://replit.com/@irinafok/MyFirstProject#sieve.cpp, https://replit.com/@irinafok/MyFirstProject#max_second_max.cpp
+- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#Lesson04/sieve.cpp, https://replit.com/@VenusLau/Project01#max.cpp
+- [x] 利曉彤 https://replit.com/@3D111/homework#sieve.cpp, https://replit.com/@3D111/homework#max.cpp
+
+## Class 5 Attendance:
 - [ ] 陳柏安
 - [ ] 許珈瑋
 - [ ] 溫穎琤
@@ -86,7 +97,7 @@
 - [ ] 劉悅晴
 - [ ] 利曉彤
 
-## Class 5 Attendance:
+## Class 5 Homework:
 - [ ] 陳柏安
 - [ ] 許珈瑋
 - [ ] 溫穎琤
