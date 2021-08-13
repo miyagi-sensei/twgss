@@ -83,7 +83,7 @@
 - [ ] 林卓諺
 - [x] 鍾心瑀 https://replit.com/@ChungHsinYu/MyFirstProject#primes/sieve_of_eratosthenes.cpp, https://replit.com/@ChungHsinYu/MyFirstProject#primes/max.cpp
 - [x] Irina https://replit.com/@irinafok/MyFirstProject#sieve.cpp, https://replit.com/@irinafok/MyFirstProject#max_second_max.cpp
-- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#Lesson04/sieve.cpp, https://replit.com/@VenusLau/Project01#max.cpp
+- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#Lesson04/sieve.cpp, https://replit.com/@VenusLau/Project01#max02.cpp
 - [x] 利曉彤 https://replit.com/@3D111/homework#sieve.cpp, https://replit.com/@3D111/homework#max.cpp
 
 ## Class 5 Attendance:
@@ -98,6 +98,17 @@
 - [x] 利曉彤 late by 30 minutes
 
 ## Class 5 Homework:
+- [ ] 陳柏安
+- [ ] 許珈瑋
+- [ ] 溫穎琤
+- [ ] Ryan
+- [ ] 林卓諺
+- [ ] 鍾心瑀
+- [x] Irina https://replit.com/@irinafok/MyFirstProject#fibonacci/v1.cpp
+- [ ] 劉悅晴
+- [ ] 利曉彤
+
+## Class 6 Attendance:
 - [ ] 陳柏安
 - [ ] 許珈瑋
 - [ ] 溫穎琤
