@@ -98,14 +98,14 @@
 - [x] 利曉彤 late by 30 minutes
 
 ## Class 5 Homework:
-- [ ] 陳柏安
-- [ ] 許珈瑋
-- [ ] 溫穎琤
-- [ ] Ryan
+- [x] 陳柏安 https://replit.com/@1C21/My-first-project#fibonacci_numbers.cpp, https://replit.com/@1C21/My-first-project#D208/max.cpp
+- [x] 許珈瑋 https://replit.com/@1D06/TrustworthySomePort#hw.cpp, https://replit.com/@1D06/TrustworthySomePort#max.cpp
+- [x] 溫穎琤 https://replit.com/@1D141/my-first-project-jess-wa#maximum.cpp
+- [x] Ryan https://replit.com/@RyanChan0204/My-First-C-Project#class_5/homwork/hw.md, https://replit.com/@RyanChan0204/My-First-C-Project#class_5/homwork/fibonacci.cpp, https://replit.com/@RyanChan0204/My-First-C-Project#class_5/max.cpp
 - [ ] 林卓諺
-- [ ] 鍾心瑀
-- [x] Irina https://replit.com/@irinafok/MyFirstProject#fibonacci/v1.cpp
-- [ ] 劉悅晴
+- [x] 鍾心瑀 https://replit.com/@ChungHsinYu/MyFirstProject#primes/max.cpp
+- [x] Irina https://replit.com/@irinafok/MyFirstProject#fibonacci/v1.cpp, https://replit.com/@irinafok/MyFirstProject#D208/max.cpp
+- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#fib.cpp, https://replit.com/@VenusLau/Project01#max02.cpp
 - [ ] 利曉彤
 
 ## Class 6 Attendance:
@@ -118,3 +118,15 @@
 - [ ] Irina
 - [ ] 劉悅晴
 - [ ] 利曉彤
+
+## Class 6 Homework :
+- [ ] 陳柏安
+- [ ] 許珈瑋
+- [ ] 溫穎琤
+- [ ] Ryan
+- [ ] 林卓諺
+- [ ] 鍾心瑀
+- [ ] Irina
+- [ ] 劉悅晴
+- [ ] 利曉彤
+
