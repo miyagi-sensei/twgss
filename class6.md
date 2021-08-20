@@ -1,4 +1,4 @@
-# Class 5
+# Class 6
 ## Homework from last week
 ### Fibonacci numbers
 - Implementing it recursively is easy but very inefficient because of lots of redundant computations
