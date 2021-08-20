@@ -222,14 +222,14 @@ D. 1, 2 and 3
 
 _______________________
 
-Perform bitwise operations 17 << 1 and 17 << 2. 
+Perform bitwise operations `17 << 1` and `17 << 2`. 
 What do you notice?
 
 <br>
 
 _______________________
 
-Perform bitwise operations 17 >> 1 and 17 >> 2. 
+Perform bitwise operations `17 >> 1` and `17 >> 2`. 
 What do you notice?
 
 <br>
