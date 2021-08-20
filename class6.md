@@ -158,7 +158,9 @@ B. 2 only<br>
 C. 1 and 2<br>
 D. None of them
 
----
+<br>
+
+_______________________
 
 # [j181 Wings and Nuggets Subtask 1 & 2](https://github.com/miyagi-sensei/twgss/blob/main/j181.pdf)
 - Solve subtask 1 and 2. Understand the sample tests and the Input/Output requirement
