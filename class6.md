@@ -49,7 +49,7 @@ B.  2 only<br>
 C.  1 and 2<br>
 D.  None of them 
 
-<br>
+C
 
 ____________
 
@@ -61,7 +61,7 @@ B. Charlie does not feel happy<br>
 C. It is not raining outside<br>
 D. None of the above
 
-<br>
+D
 
 ____________
 
@@ -76,7 +76,7 @@ B. ii only<br>
 C. i and iii only<br>
 D. ii and iii only
 
-<br>
+C
 
 ____________
 
@@ -86,25 +86,25 @@ A. If I feel sick, then I ate that giant cookie.<br>
 B. If I don’t eat this giant cookie, then I won’t feel sick.<br>
 C. If I don’t feel sick, then I didn’t eat that giant cookie.
 
-<br>
+C
 
 ________________________________________________________________________________
 
 “Somebody brought a flashlight.” Write the negation of this statement.
 
-<br>
+Nobody brought a flashlight. (other statement such as Everybody failed to bring a flashlight also is correct)
 
 ________________________________________________________________________________
 
 “There are no prime numbers that are even.” Write the negation of this statement.
 
-<br>
+Some prime numbers are even.
 
 ________________________________________________________________________________
 
 “All Chinese children learn English in school.” Write the negation of this statement.
 
-<br>
+At least one Chinese student didn't learn English in school.
 
 _______________________
 
