@@ -103,9 +103,9 @@
 - [x] 溫穎琤 https://replit.com/@1D141/my-first-project-jess-wa#maximum.cpp
 - [x] Ryan https://replit.com/@RyanChan0204/My-First-C-Project#class_5/homwork/hw.md, https://replit.com/@RyanChan0204/My-First-C-Project#class_5/homwork/fibonacci.cpp, https://replit.com/@RyanChan0204/My-First-C-Project#class_5/max.cpp
 - [ ] 林卓諺
-- [x] 鍾心瑀 https://replit.com/@ChungHsinYu/MyFirstProject#primes/max.cpp
+- [x] 鍾心瑀 https://replit.com/@ChungHsinYu/MyFirstProject#primes/max.cpp, https://replit.com/@chunghsinyu0824/MyFirstProject#primes/fib.cpp (includes boolean homework)
 - [x] Irina https://replit.com/@irinafok/MyFirstProject#fibonacci/v1.cpp, https://replit.com/@irinafok/MyFirstProject#D208/max.cpp
-- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#fib.cpp, https://replit.com/@VenusLau/Project01#max02.cpp
+- [x] 劉悅晴 https://replit.com/@VenusLau/Project01#fib.cpp, https://replit.com/@VenusLau/Project01#max02.cpp, DM for boolean homework
 - [ ] 利曉彤
 
 ## Class 6 Attendance:
