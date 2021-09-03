@@ -141,13 +141,13 @@
 - [x] 劉悅晴
 - [x] 利曉彤
 
-## Class 7 Homework :
-- [ ] 陳柏安
-- [ ] 許珈瑋
-- [ ] 溫穎琤
-- [ ] Ryan
-- [ ] 林卓諺
-- [ ] 鍾心瑀
-- [ ] Irina
-- [ ] 劉悅晴
-- [ ] 利曉彤
+## Class 8 Attendance :
+- [x] 陳柏安
+- [x] 許珈瑋 (team)
+- [x] 溫穎琤
+- [x] Ryan (team)
+- [x] 鍾心瑀 (team)
+- [x] Irina (team)
+- [x] 劉悅晴 (team)
+- [x] 利曉彤
+- [x] Charles Tsang
