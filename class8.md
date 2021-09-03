@@ -116,7 +116,7 @@ Note `B[0:i-1]` remains a sorted array from the beginning to the end. You will p
 ---
 
 # Homework
-## [D803 Insertion Sort exercise](https://judge.hkoi.org/task/D803)
+## [D803 Insertion Sort exercise](https://judge.hkoi.org/task/D803) [pdf](https://github.com/miyagi-sensei/twgss/blob/main/d803.pdf)
 
 ## Watch [bubble sort video](https://youtu.be/nmhjrI-aW5o)
 
