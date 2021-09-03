@@ -78,6 +78,8 @@ int main() {
 }
 ```
 
+---
+
 ## Insertion
 Array `A` contains `N` integers sorted in ascending order. You need to insert integer `x` into the appropriate place in `A` so that it will remain sorted after the insertion.
 
@@ -96,6 +98,8 @@ Output `A` after inserting `x` to the right place.
 |4|17<br>7<br>-5 -2 -2 12 17 18 24|5 -2 -2 12 17 17 18 24|
 |5|17<br>7<br>-5 -2 -2 12 17 17 24|5 -2 -2 12 17 17 17 24|
 |6|8<br>0|8|
+
+---
 
 ## Insertion Sort
 Watch [insertion sort video](https://youtu.be/OGzPmgsI-pQ)
