@@ -30,8 +30,8 @@ def merge(a, b):
         else:
             c.append(b[j])
             j += 1
-    c += a[i:]
-    c += b[j:]
+    append a[i:] to the end of c
+    append b[j:] to the end of c
     return c
 ```
 - [D804 merging sorted arrays](https://judge.hkoi.org/task/D804)
@@ -118,7 +118,7 @@ There are many ways to partition an array so that everything to its left is less
 
 # Homework
 
-### [exercise: D802](https://judge.hkoi.org/task/D802)## [D205](https://judge.hkoi.org/task/D205)
+### [exercise: D802](https://judge.hkoi.org/task/D802)
 
 ### [D804 merging sorted arrays](https://judge.hkoi.org/task/D804)
 
