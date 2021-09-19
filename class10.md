@@ -43,7 +43,7 @@ So this program would look like this:
 ```
 #include <iostream>
 using namespace std;
-pair<int, int> A[100];
+pair<long long, long long> A[100];
 int N;
 
 void mergesort(int l, int r){
