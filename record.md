@@ -151,3 +151,23 @@
 - [x] 劉悅晴 (team)
 - [x] 利曉彤
 - [x] Charles Tsang
+
+2021/22 Heat Event:
+組別 Group	Name	姓名	房號 Room	座號 Seat
+- [ ] Senior	Hsieh Chong Ho	謝昶豪	ERB_LT	620
+- [ ] Senior	Lau Yuet Ching	劉悅晴	ERB_LT	624
+- [ ] Senior	Lee Hiu Tung	利曉彤	ERB_LT	515
+- [ ] Senior	Tsang Tsz Hong	曾子康	ERB_LT	735
+- [ ] Senior	Wu Baifeng	吳柏灃	ERB_LT	530
+- [ ] Senior	Ho Chi Wang	何治宏	ERB_LT	527
+- [ ] Senior	Tso Tsz Fung	曹梓烽	ERB_LT	760
+- [ ] Senior	Fok Hiu Tung	霍曉彤	ERB_LT	790
+- [x] Junior	Wong Sheung Chit	黃尚喆	ERB_LT	811
+- [x] Junior	Ng Pui Hei	吳沛熹	ERB_LT	616
+- [x] Junior	Chung Hsin Yu	鍾心瑀	ERB_LT	624
+- [x] Junior	Fok Wai Chung	霍慧聰	ERB_LT	717
+- [ ] Junior	Chan Pak Hank	陳柏亨	ERB_LT	751
+- [ ] Junior	Hui Ka Wai	許珈瑋	ERB_LT	781
+- [ ] Junior	Wan Wing Tsang	溫穎琤	ERB_LT	815
+- [x] Junior	Chen Bai An	陳柏安	ERB_LT	617
+
