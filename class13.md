@@ -53,7 +53,7 @@ D. `(A nor B) nor (B nor B)`
 14. Suppose `x` is a boolean variable. Is the following expression always true?
 `(x && (!x)) == false`
 
-15. Which of the following pair(s) of boolean expressions are logically equivalent?
+15. Which of the following pair(s) of boolean expressions are logically equivalent?<br>
 (i). `x || (!x && y)`    vs. `(x && !y) || y`<br>
 (ii). `(x || !y) ^ (!x || y)` vs. `(x && !y) || (!x && y)`<br>
 A. (i) only<br>
