@@ -44,11 +44,11 @@ The following 4 equations can be derived from each other.
 |T|F|F|
 |T|T|F|
 
-Which of the following expressions is equivalent to `((not A) and B)`? (Show your truth tables for all 4 choices in your answers)
-A. `A nor (B nor B)`
-B. `(A nor A) nor B`
-C. `(A nor B) nor B`
-D. `(A nor B) nor (B nor B)`
+Which of the following expressions is equivalent to `((not A) and B)`? (Show your truth tables for all 4 choices in your answers)<br>
+A. `A nor (B nor B)`<br>
+B. `(A nor A) nor B`<br>
+C. `(A nor B) nor B`<br>
+D. `(A nor B) nor (B nor B)`<br>
 
 14. Suppose `x` is a boolean variable. Is the following expression always true?
 `(x && (!x)) == false`
