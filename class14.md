@@ -99,7 +99,7 @@ int main() {
     i = 0;
     while ((x != 5) && (y != 5)) {
         next = a[x][y];
-        if (y % 2 == 0)
+        if (i % 2 == 0)
             x = next;
         else
             y = next;
