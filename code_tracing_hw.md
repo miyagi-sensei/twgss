@@ -105,7 +105,7 @@ int fact(int x, int y) {
 }
 ```
 
-7. Consider the function above again. What is the return value of `fact(11, 4)`?<br>
+7. Consider the function above again. What is the return value of `fact(12, 5)`?<br>
 
 8. Consider the following program segment:
 ```
