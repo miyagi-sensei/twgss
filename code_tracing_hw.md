@@ -1,6 +1,6 @@
 # Code Tracing (Dry Run)
-**Do not cheat by using the computer to run these code. These are valuable practice exercises for your "mind muscles".**
-Submit a link to your answers (.txt) in #twgss Slack channel,
+- **Do not cheat by using the computer to run these code. These are valuable practice exercises for your "mind muscles".**
+- Submit a link to your answers (.txt) in #twgss Slack channel,
 
 1. What is the output of the following program?
 ```c++
