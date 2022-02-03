@@ -68,7 +68,7 @@ What do you notice?
 What do you notice?
 
 18. Complete the function f(x) so that the function g(ch) can convert lowercasew letters to uppercase and vice versa. For example, `g('A')` should return `a` and `g('q')` should return `Q`. Fill in **Y**.
-```
+```cpp
 int f(int x) {
     return ________Y_______;
 }
