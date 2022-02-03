@@ -43,7 +43,7 @@ What do you notice?
 What do you notice?
 
 18. Complete the function f(x) so that the function g(ch) can convert lowercasew letters to uppercase and vice versa. For example, `g('A')` should return `a` and `g('q')` should return `Q`. Fill in **Y**.
-```c++
+```cpp
 int f(int x) {
     return ________Y_______;
 }
@@ -60,7 +60,7 @@ char g(char ch) {
 
 ## Code Tracing (Dry Run)
 1. What is the output of the following program?
-```c++
+```cpp
 int a[10] = {3, 7, 2, 6, 3, 6, 1, 7, 0, 9};
 int b[10];
 int main() {
@@ -72,7 +72,7 @@ int main() {
 ```
 
 2. What is the return value of the following function?
-```c++
+```cpp
 int f() {
     int res, x;
     res = 0;
@@ -86,7 +86,7 @@ int f() {
 ```
 
 3. What is the output of the following program?
-```c++
+```cpp
 int a[5][5] = { {4, 2, 4, 0, 1},
                 {3, 5, 1, 1, 0},
                 {3, 0, 4, 5, 2},
@@ -111,7 +111,7 @@ int main() {
 ```
 
 4. The program tries to evaluate an additive expression from the input. However, the program contains an error. For example, the program outputs `51` when the input is `100+1`.
-```c++ 
+```cpp
  1.string s;
  2.int sum, temp, len, i, x;
  3.int main() {
@@ -143,7 +143,7 @@ Correction: `_________B_________`
 
 
 5. What is the return value of `factor(10, 4)`?
-```
+```cpp
 int fact(int x, int y) {
     if (x <= 0)
         return 1;
@@ -155,7 +155,7 @@ int fact(int x, int y) {
 6. Consider the function above again. What is the return value of `fact(11, 4)`?<br>
 
 7. What is the output of the following program?
-```c++
+```cpp
 int a[15], p[15];
 int i, j, k;
 int main() {
