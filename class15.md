@@ -1,5 +1,5 @@
 # Class 15 - Logic/Boolean/Bitwise Quiz
-Put your answers in a text file in your replit folder and send the link to #twgss slack channel.
+### Put your answers in a text file in your replit folder and send the link to [#twgss](https://miyagistudents.slack.com/archives/CLZBTAG1M) slack channel.
 
 1. `a`, `b`, `c` are 3 integer variables whereas `a < b`. Write a boolean expression that determines whether `c` is between `a` and `b` (inclusive) **without** using the logical AND operator `&&`. <br>
 In other words, write a boolean expression that is true if and only if `c` lies somewhere between `a` and `b` (inclusive).
