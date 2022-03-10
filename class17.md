@@ -49,8 +49,8 @@ int f(int target) {
     }
     return l - 1;
 }
-
-Let's prove that this code is correct. (This would give you some superpower)
+```
+Let\'s prove that this code is correct. (This would give you some superpower)
 1. first we need to prove that the while loop always terminates.
 2. then we prove that `l-1` is always the correct answer.
 
