@@ -24,7 +24,6 @@ int main() {
     cout << search(13) << endl;
 }
 ```
-- Review [Class 13 notes](https://github.com/miyagi-sensei/georgia/tree/main/class13)
 ### Exercises
 - [D801](https://judge.hkoi.org/task/D801)
 - [M1023 Seating Plan](https://judge.hkoi.org/task/M1023)
