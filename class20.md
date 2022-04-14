@@ -1,8 +1,5 @@
 # Class 20 - Counting Quiz
-
-> Go over `int x = -30 % 5` first.
- 
-Submit your answers by email to haye@miyagiacademy.com or by DM over Discord.
+Submit a replit link to your answers over Slack.
 
 #### 1. A fair 6-faced dice is thrown 3 times. What is the probability that the 3 numbers thrown are strictly increasing? (Express it in a fraction, e.g. `7/216`)
 
