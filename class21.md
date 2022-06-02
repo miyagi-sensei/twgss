@@ -43,15 +43,4 @@ Then, process each pair in C[] one by one,
 keeping track of the "height of the graph" and,
 carefully including the ranges where the height is above K
 ```
-The input:
-```
-4 3 4 100
-10 20 60 90
-30 40 80
-```
-can be depicted with the graphs below:
-![](https://i.imgur.com/kdDU49t.jpg)
-
-More accurately in discrete math fashion:
-![](https://i.imgur.com/uQ3i9NR.jpg)
-
+If you're looking for a more explicit illustration of the full solution, check out [this video](https://youtu.be/NCWV83okqNs) I made.
