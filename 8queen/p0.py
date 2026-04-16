@@ -1,3 +1,4 @@
+# solves 8 Queens in about 5000 seconds
 from itertools import product, combinations as comb
 
 def check(config):
