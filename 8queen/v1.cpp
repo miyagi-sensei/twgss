@@ -26,17 +26,17 @@ bool check() {
 
 int main() {
 	int i, j;
-	int solutions = 0;
+	int count = 0;
 	cin >> N;
 	for (i = 0; i<N; i++)
 		Config.push_back(i);
 	while (next_permutation(Config.begin(), Config.end())) {			
 		if (check())
-			solutions++;
+			count++;
 		// for (auto x: Config)
 		// 	cout << x << " ";
 		// cout << endl;
 	}
-	cout << solutions << endl;
+	cout << count << endl;
 	return 0;
 }

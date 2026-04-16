@@ -13,10 +13,10 @@ def check(config):
     return True
 
 N = 8
-solution = 0
+count = 0
 for p in perm(range(N)):
     if check(p):
         # print(p)
-        solution += 1
+        count += 1
 
-print(solution)
+print(count)
