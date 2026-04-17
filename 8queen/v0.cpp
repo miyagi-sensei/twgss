@@ -1,4 +1,4 @@
-// solves 8 Queens in just under 1 minute
+// solves 8 Queens brute force in just under 1 minute
 #include <iostream>
 using namespace std;
 

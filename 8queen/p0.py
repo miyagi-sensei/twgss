@@ -1,4 +1,4 @@
-# solves 8 Queens in about 5000 seconds
+# solves 8 Queens brute force in about 5000 seconds
 from itertools import product, combinations as comb
 
 def check(config):

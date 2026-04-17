@@ -12,7 +12,7 @@ def check(config):
         setd1.add(d1)
     return True
 
-N = 8
+N = 10
 count = 0
 for p in perm(range(N)):
     if check(p):
