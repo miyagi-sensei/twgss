@@ -1,3 +1,4 @@
+# N queens puzzle searching only through the permutations of N numbers
 from itertools import permutations as perm
 
 def check(config):
@@ -12,7 +13,7 @@ def check(config):
         setd1.add(d1)
     return True
 
-N = 10
+N = 8
 count = 0
 for p in perm(range(N)):
     if check(p):

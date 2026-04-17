@@ -1,3 +1,4 @@
+// N queens puzzle searching only through the permutations of N numbers
 #include <iostream>
 #include <algorithm>
 #include <vector>
