@@ -14,7 +14,7 @@ int main() {
         cin >> row;
         for (j=1; j<=N; j++) {
             if (row[j] == '1') {
-							printf("row %d col %d is 1\n");
+							printf("row %d col %d is 1\n", i, j);
             }
         }
     }
